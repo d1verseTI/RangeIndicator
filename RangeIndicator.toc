@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: RangeIndicator
+## Notes: Shows the estimated range to your target. /ri for options.
+## Author: drago
+## Version: 1.0.0
+## X-Flavor: Forever
+## SavedVariables: RangeIndicatorDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibRangeCheck-3.0\LibRangeCheck-3.0.lua
+
+RangeIndicator.lua
